@@ -1,3 +1,7 @@
+<div algin="center">
+   ![image](https://github.com/user-attachments/assets/5abc0777-f87a-4950-ad73-223bbda508e2)
+</div>
+
 # Projeto de Login e Cadastro de Usuários
 
 ## Este projeto é uma implementação de um sistema de login e cadastro de usuários utilizando Java com Spring Boot e Spring Security. O objetivo principal é demonstrar a aplicação de conceitos de segurança em uma aplicação web.
