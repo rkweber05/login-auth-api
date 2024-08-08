@@ -24,7 +24,7 @@
 ## Instalação e Execução
 
 **Clone o repositório:**
-  * git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  * git clone https://github.com/rkweber05/login-auth-api.git
   * cd nome-do-repositorio
 
 **Compile e execute a aplicação usando Maven:**
